@@ -1,7 +1,7 @@
 {
   "name": "node-stem-laravel",
   "version": "1.1.0",
-  "description": "Manipulate and manage your Node-Steam powered Stem Bot using Laravel.",
+  "description": "This is a plugin for alvinl/stem that links PHP's Laravel 5 with your Steam bot.",
   "main": "index.js",
   "author": {
     "name": "Brandon Johnson",
