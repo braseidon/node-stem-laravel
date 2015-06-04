@@ -1,5 +1,5 @@
 {
-  "name": "braseidon-stem-laravel",
+  "name": "node-stem-laravel",
   "version": "1.1.0",
   "description": "Manipulate and manage your Node-Steam powered Stem Bot using Laravel.",
   "main": "index.js",
@@ -10,13 +10,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/braseidon/braseidon-stem-laravel.git"
+    "url": "https://github.com/braseidon/node-stem-laravel.git"
   },
   "gitHead": "4ab9fcd50523539bb9e62f66893b5e902665772d",
   "readme": "",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/braseidon/braseidon-stem-laravel/issues"
+    "url": "https://github.com/braseidon/node-stem-laravel/issues"
   },
-  "homepage": "https://github.com/braseidon/braseidon-stem-laravel"
+  "homepage": "https://github.com/braseidon/node-stem-laravel"
 }
